@@ -1,1 +1,1 @@
-RDEPENDS_${PN}-extras_append_maple = "phosphor-webui phosphor-image-signing"
+RDEPENDS_${PN}-extras_append_maple = "webui-vue phosphor-image-signing"
